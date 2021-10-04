@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Thesis/FitnessBuddy/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.11851851851851852" />
+        <entry key="..\:/Thesis/FitnessBuddy/app/src/main/res/drawable/addcirc.xml" value="0.1" />
+        <entry key="..\:/Thesis/FitnessBuddy/app/src/main/res/drawable/date.xml" value="0.3828125" />
+        <entry key="..\:/Thesis/FitnessBuddy/app/src/main/res/drawable/event.xml" value="0.12685185185185185" />
+        <entry key="..\:/Thesis/FitnessBuddy/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.19722222222222222" />
+        <entry key="..\:/Thesis/FitnessBuddy/app/src/main/res/drawable/ic_check.xml" value="0.3574074074074074" />
+        <entry key="..\:/Thesis/FitnessBuddy/app/src/main/res/drawable/ic_logout.xml" value="0.1" />
+        <entry key="..\:/Thesis/FitnessBuddy/app/src/main/res/drawable/ic_message.xml" value="0.1" />
+        <entry key="..\:/Thesis/FitnessBuddy/app/src/main/res/drawable/ic_outline_info_24.xml" value="0.1" />
+        <entry key="..\:/Thesis/FitnessBuddy/app/src/main/res/drawable/ic_padlock.xml" value="0.1" />
+        <entry key="..\:/Thesis/FitnessBuddy/app/src/main/res/drawable/ic_person.xml" value="0.1" />
+        <entry key="..\:/Thesis/FitnessBuddy/app/src/main/res/drawable/logo.xml" value="0.1" />
+        <entry key="..\:/Thesis/FitnessBuddy/app/src/main/res/drawable/time.xml" value="0.1" />
+        <entry key="..\:/Thesis/FitnessBuddy/app/src/main/res/layout/activity_add.xml" value="0.5" />
+        <entry key="..\:/Thesis/FitnessBuddy/app/src/main/res/layout/activity_bmiactivity.xml" value="0.25" />
+        <entry key="..\:/Thesis/FitnessBuddy/app/src/main/res/layout/activity_calorie.xml" value="0.25" />
+        <entry key="..\:/Thesis/FitnessBuddy/app/src/main/res/layout/activity_dashboard.xml" value="0.1" />
+        <entry key="..\:/Thesis/FitnessBuddy/app/src/main/res/layout/activity_email_verification.xml" value="0.1" />
+        <entry key="..\:/Thesis/FitnessBuddy/app/src/main/res/layout/activity_home.xml" value="0.42916666666666664" />
+        <entry key="..\:/Thesis/FitnessBuddy/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Thesis/FitnessBuddy/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Thesis/FitnessBuddy/app/src/main/res/layout/activity_otpverify.xml" value="0.1" />
+        <entry key="..\:/Thesis/FitnessBuddy/app/src/main/res/layout/activity_register.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thesis/FitnessBuddy/app/src/main/res/layout/activity_reset_password.xml" value="0.1" />
+        <entry key="..\:/Thesis/FitnessBuddy/app/src/main/res/layout/activity_settings.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thesis/FitnessBuddy/app/src/main/res/layout/activity_tracker.xml" value="0.21458333333333332" />
+        <entry key="..\:/Thesis/FitnessBuddy/app/src/main/res/layout/activity_update_profile.xml" value="0.1" />
+        <entry key="..\:/Thesis/FitnessBuddy/app/src/main/res/layout/activity_view_profile.xml" value="0.33" />
+        <entry key="..\:/Thesis/FitnessBuddy/app/src/main/res/layout/fragment_b_m_i.xml" value="0.20416666666666666" />
+        <entry key="..\:/Thesis/FitnessBuddy/app/src/main/res/layout/fragment_bmi.xml" value="0.25" />
+        <entry key="..\:/Thesis/FitnessBuddy/app/src/main/res/layout/fragment_calorie.xml" value="0.1" />
+        <entry key="..\:/Thesis/FitnessBuddy/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Thesis/FitnessBuddy/app/src/main/res/layout/fragment_setting.xml" value="0.22" />
+        <entry key="..\:/Thesis/FitnessBuddy/app/src/main/res/layout/fragment_settings.xml" value="0.20416666666666666" />
+        <entry key="..\:/Thesis/FitnessBuddy/app/src/main/res/layout/nav_header.xml" value="0.2" />
+        <entry key="..\:/Thesis/FitnessBuddy/app/src/main/res/menu/addlist.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thesis/FitnessBuddy/app/src/main/res/menu/camera.xml" value="0.1" />
+        <entry key="..\:/Thesis/FitnessBuddy/app/src/main/res/menu/menu.xml" value="0.67" />
+        <entry key="..\:/Thesis/FitnessBuddy/app/src/main/res/menu/menubar.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
